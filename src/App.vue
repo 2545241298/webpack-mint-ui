@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>这是 App 组件</h1>
+    <h1>这是a App 组件</h1>
 
     <!-- 为什么这里叫做 mt-button 的 button 直接就能用 -->
     <mt-button type="danger" icon="more" @click="show">default</mt-button>
